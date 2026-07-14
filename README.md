@@ -13,7 +13,7 @@ This repository contains screenshots, packet captures, commands executed during 
 ## 📄 Full Technical Report
 
 A detailed technical report for this lab is available here:
-
+report/Snort_and_Firewall_Lab_Report.pdf
 
 
 ## Objectives
