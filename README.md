@@ -10,6 +10,11 @@ The lab involved configuring a simulated enterprise network using Mininet, monit
 
 This repository contains screenshots, packet captures, commands executed during the lab, and documentation of the activities performed.
 
+## 📄 Full Technical Report
+
+A detailed technical report for this lab is available here:
+
+
 
 ## Objectives
 
@@ -48,3 +53,18 @@ This repository contains screenshots, packet captures, commands executed during 
 Completing this lab helped me understand how signature-based intrusion detection works in practice. Observing Snort generate alerts for malicious traffic demonstrated how IDS solutions inspect packet payloads rather than simply relying on packet headers.
 
 I also gained practical experience using tcpdump to capture network traffic and configuring firewall rules with iptables to block malicious connections. This reinforced the relationship between detection (IDS) and prevention (firewall) in a layered network defense strategy.
+
+---
+
+# Author
+
+**Adaeze Claret Etigbue**
+
+- First Class B.Sc. Computer Science Graduate
+- Cybersecurity Enthusiast
+- SOC Analyst in Training
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/adaeze-etigbue-426205289
+- GitHub: https://github.com/Adaezeclaret
