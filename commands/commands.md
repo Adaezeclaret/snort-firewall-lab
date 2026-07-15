@@ -91,7 +91,7 @@ netstat -tunpa
 Create and apply the firewall rule:
 
 ```bash
-sudo iptables -I FORWARD
+sudo iptables -I FORWARD -p tcp -d 209.165.202.133 --dport 6666 -j DROP
 ```
 
 List the active firewall rules and verify the rule was added:
