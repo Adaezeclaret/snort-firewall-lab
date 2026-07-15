@@ -85,3 +85,17 @@ Verify listening services:
 ```bash
 netstat -tunpa
 ```
+
+## 6. Firewall Configuration
+
+Create and apply the firewall rule:
+
+```bash
+sudo iptables -I FORWARD
+```
+
+List the active firewall rules and verify the rule was added:
+
+```bash
+sudo iptables -L -v
+```
